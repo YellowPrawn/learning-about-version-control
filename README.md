@@ -1,3 +1,3 @@
 # Learning About Version Control
 Author: Damien Fung
-"Solving merge conflcits is soooooo hard!"
+Solving merge conflicts is soooooo hard!
