@@ -1,1 +1,2 @@
-# learning-about-version-control
+# Learning About Version Control
+Auther: Damien Fung
